@@ -1,0 +1,152 @@
+{
+  "node::track_parcel": {
+    "common.position": {
+      "x": 600,
+      "y": 23
+    }
+  },
+  "node::missed_delivery": {
+    "common.position": {
+      "x": 600,
+      "y": 169
+    }
+  },
+  "node::where_is_point": {
+    "common.position": {
+      "x": 600,
+      "y": 315
+    }
+  },
+  "node::return_shipment": {
+    "common.position": {
+      "x": 600,
+      "y": 461
+    }
+  },
+  "node::root": {
+    "common.position": {
+      "x": 0,
+      "y": 2519
+    }
+  },
+  "node::refund": {
+    "common.position": {
+      "x": 0,
+      "y": 43
+    }
+  },
+  "node::answering_machine": {
+    "common.position": {
+      "x": 0,
+      "y": 209
+    }
+  },
+  "node::i_will_call_back": {
+    "common.position": {
+      "x": 0,
+      "y": 355
+    }
+  },
+  "node::can_hear_you": {
+    "common.position": {
+      "x": 0,
+      "y": 501
+    }
+  },
+  "node::dont_understand_hangup_params": {
+    "common.position": {
+      "x": 0,
+      "y": 647
+    }
+  },
+  "node::dont_understand": {
+    "common.position": {
+      "x": 0,
+      "y": 813
+    }
+  },
+  "node::dont_understand_preprocessor": {
+    "common.position": {
+      "x": 0,
+      "y": 979
+    }
+  },
+  "node::i_am_robot": {
+    "common.position": {
+      "x": 0,
+      "y": 1125
+    }
+  },
+  "node::repeat_preprocessor": {
+    "common.position": {
+      "x": 0,
+      "y": 1271
+    }
+  },
+  "node::repeat_hangup_params": {
+    "common.position": {
+      "x": 0,
+      "y": 1417
+    }
+  },
+  "node::repeat": {
+    "common.position": {
+      "x": 0,
+      "y": 1583
+    }
+  },
+  "node::ping": {
+    "common.position": {
+      "x": 0,
+      "y": 1769
+    }
+  },
+  "node::wait": {
+    "common.position": {
+      "x": 0,
+      "y": 1935
+    }
+  },
+  "node::sorry_wont_call": {
+    "common.position": {
+      "x": 0,
+      "y": 2081
+    }
+  },
+  "node::swear_words": {
+    "common.position": {
+      "x": 0,
+      "y": 2227
+    }
+  },
+  "node::hangup": {
+    "common.position": {
+      "x": 0,
+      "y": 2373
+    }
+  },
+  "node::recognize": {
+    "common.position": {
+      "x": 600,
+      "y": 43
+    }
+  },
+  "node::transfer": {
+    "common.position": {
+      "x": 1200,
+      "y": 43
+    }
+  },
+  "node::dont_understand_hangup": {
+    "common.position": {
+      "x": 600,
+      "y": 813
+    }
+  },
+  "node::repeat_or_ping_hangup": {
+    "common.position": {
+      "x": 600,
+      "y": 1676
+    }
+  }
+}
