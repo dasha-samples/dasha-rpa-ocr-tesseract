@@ -1,16 +1,18 @@
 {
-  "name": "hyper-automation-demo-demo",
+  "name": "dasha-rpa-ocr-tesseract",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "ts-node -r dotenv/config main.ts",
-    "build": "tsc"
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.2.1"
   },
   "dependencies": {
-    "@dasha.ai/platform-sdk": "^0.7.0-beta.2",
-    "@types/node": "^12.19.7",
-    "dotenv": "^8.2.0",
-    "tesseract.js": "^2.1.4",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.1.2"
+    "@dasha.ai/sdk": "^0.3.0",
+    "tesseract.js": "^2.1.4"
   }
 }
